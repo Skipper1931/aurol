@@ -11,7 +11,7 @@ l_english:
  NUL_democratic_ADJ:0 "Nuallian"
  NUL_neutrality_ADJ:0 "Nuallian"
  NUL_communism_ADJ:0 "Nuallian"
- ####
+####
  APR_fascism:0 "Apravan State"
  APR_fascism_DEF:0 "the Apravan State"
  APR_democratic:0 "Apravan Republic"
@@ -24,7 +24,7 @@ l_english:
  APR_democratic_ADJ:0 "Apravan"
  APR_neutrality_ADJ:0 "Apravan"
  APR_communism_ADJ:0 "Apravan"
- ####
+#### Draio is a Apravan sepratist movement
  DRA_fascism:0 "Draioan National Salvation Government"
  DRA_fascism_DEF:0 "the Draioan National Salvation Government"
  DRA_democratic:0 "Republic of Draio"
@@ -37,3 +37,4 @@ l_english:
  DRA_democratic_ADJ:0 "Draioan"
  DRA_neutrality_ADJ:0 "Draioan"
  DRA_communism_ADJ:0 "Draioan"
+####
