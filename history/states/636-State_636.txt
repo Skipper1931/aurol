@@ -1,0 +1,14 @@
+state={
+	id=636
+	name="STATE_636"
+	provinces={
+		870 3937 9673 10536 15835 15877 15937 15955 15962 16012 16019 16091 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

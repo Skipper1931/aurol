@@ -1,0 +1,14 @@
+state={
+	id=593
+	name="STATE_593"
+	provinces={
+		919 1783 2417 3410 3630 5226 6192 6314 7316 8289 8766 10010 10273 15378 15441 15463 15466 15529 15550 15586 15626 15665 15714 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

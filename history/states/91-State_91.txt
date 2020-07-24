@@ -1,0 +1,14 @@
+state={
+	id=91
+	name="STATE_91"
+	provinces={
+		4384 6194 7172 19295 19299 19376 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

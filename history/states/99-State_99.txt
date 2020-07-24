@@ -1,0 +1,14 @@
+state={
+	id=99
+	name="STATE_99"
+	provinces={
+		1811 3600 6618 19812 19853 19908 19940 19961 19991 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

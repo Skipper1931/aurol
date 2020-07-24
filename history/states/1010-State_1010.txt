@@ -1,0 +1,14 @@
+state={
+	id=1010
+	name="STATE_1010"
+	provinces={
+		9803 10518 20078 20129 20150 20227 20268 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=592
+	name="STATE_592"
+	provinces={
+		3169 3179 9433 9520 15495 15519 15528 15556 15575 15598 15625 15660 15686 15687 15688 15728 15738 15776 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

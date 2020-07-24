@@ -1,0 +1,14 @@
+state={
+	id=688
+	name="STATE_688"
+	provinces={
+		492 515 542 1345 3921 4472 5299 5560 7506 9205 16382 16402 16461 16477 16541 16547 16557 16614 16699 16714 16827 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

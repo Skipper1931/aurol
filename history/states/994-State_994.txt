@@ -1,0 +1,14 @@
+state={
+	id=994
+	name="STATE_994"
+	provinces={
+		3140 5833 20048 20057 20103 20118 20149 20176 20205 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

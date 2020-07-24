@@ -1,0 +1,14 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		784 2169 3730 4100 4526 4934 7829 15435 15436 15452 15501 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

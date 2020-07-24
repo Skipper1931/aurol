@@ -1,0 +1,14 @@
+state={
+	id=89
+	name="STATE_89"
+	provinces={
+		1225 5813 6823 8839 19269 19329 19340 19397 19429 19470 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=712
+	name="STATE_712"
+	provinces={
+		533 2088 4980 5380 7653 8919 9832 10059 16631 16786 16865 16884 16912 16920 16933 16954 16962 16974 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

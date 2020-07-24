@@ -1,0 +1,14 @@
+state={
+	id=61
+	name="STATE_61"
+	provinces={
+		1202 1564 2019 7510 8979 16686 16733 16734 16817 16825 16839 16902 17000 17036 17080 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

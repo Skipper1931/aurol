@@ -1,0 +1,14 @@
+l_english:
+ NUL_fascism:0 "Nuallian State"
+ NUL_fascism_DEF:0 "the Nuallian State"
+ NUL_democratic:0 "Nuallian Republic"
+ NUL_democratic_DEF:0 "the Nuallian Republic"
+ NUL_neutrality:1 "Grand Duchy of Nuallia"
+ NUL_neutrality_DEF:1 "the Most Excellent Grand Duchy of Nuallia"
+ NUL_communism:0 "Socialist Republic of Nuallia"
+ NUL_communism_DEF:0 "the Socialist Republic of Nuallia"
+ NUL_fascism_ADJ:0 "Nuallian"
+ NUL_democratic_ADJ:0 "Nuallian"
+ NUL_neutrality_ADJ:0 "Nuallian"
+ NUL_communism_ADJ:0 "Nuallian"
+ 

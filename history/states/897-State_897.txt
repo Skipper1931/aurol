@@ -1,0 +1,14 @@
+state={
+	id=897
+	name="STATE_897"
+	provinces={
+		258 323 1299 3050 4887 6112 6658 6902 8294 8481 8564 10968 18993 19004 19088 19114 19136 19173 19223 19262 19263 19294 19320 19321 19364 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

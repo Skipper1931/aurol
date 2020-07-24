@@ -1,0 +1,14 @@
+state={
+	id=74
+	name="STATE_74"
+	provinces={
+		1064 4524 4949 5331 8552 18051 18106 18115 18146 18215 18226 18257 18276 18316 18380 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	
+	history = {
+		owner = NUL
+		add_core_of = NUL
+	}
+}

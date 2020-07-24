@@ -1,0 +1,15 @@
+version="1"
+tags={
+	"Map"
+	"Alternative History"
+}
+name="Blue Aurol"
+supported_version="1.9.3"
+replace_path="history/states"
+replace_path="history/units"
+replace_path="history/countries"
+replace_path="common/countries"
+replace_path="common/country_tags"
+replace_path="map/supplyareas"
+replace_path="map/strategicregions"
+#replace_path="gfx/loadingscreens"
