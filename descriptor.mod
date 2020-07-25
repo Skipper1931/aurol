@@ -1,4 +1,4 @@
-version="1"
+version="Cum"
 tags={
 	"Map"
 	"Alternative History"
@@ -13,3 +13,4 @@ replace_path="common/country_tags"
 replace_path="map/supplyareas"
 replace_path="map/strategicregions"
 replace_path="gfx/loadingscreens"
+replace_path="common/bookmarks"
