@@ -14,24 +14,24 @@ set_technology = {
 
 set_politics = {
 	ruling_party = neutrality
-	last_election = "1930.11.9"
+	last_election = "1980.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	neutrality = 48
-	fascism = 50
-	democratic = 1
-	communism = 1
+	neutrality = 92
+	fascism = 0
+	democratic = 8
+	communism = 0
 }
 
-set_stability = 0.50
+set_stability = 0.90
 
 create_country_leader = {
 	name = "Grand Duke Alexander"
 	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
-	picture = "Portrait_Austria_Kurt_Schuschnigg.dds"
+	picture = "gfx/leaders/ENG/Portrait_Britain_George_VI.dds"
 	expire = "2050.1.1"
 	ideology = centrism
 	traits = {
@@ -40,7 +40,7 @@ create_country_leader = {
 }
 
 create_corps_commander = {
-	name = "Karl Eglseer"
+	name = "Joe Mama"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
 	traits = { trait_mountaineer trickster }
 	skill = 3
