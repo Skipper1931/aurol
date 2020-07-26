@@ -21,6 +21,10 @@ bookmarks = {
 				#FRA_france_leads
 			}
 		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
 		
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
