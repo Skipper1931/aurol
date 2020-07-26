@@ -1,13 +1,17 @@
+
 state={
 	id=216
 	name="STATE_216"
+
+	history={
+		owner = NUA
+
+	}
+
 	provinces={
-		1191 19112 19146 19157 19169 19348 
+		693 1191 1311 3600 5010 5890 6016 6872 10914 19069 19074 19112 19126 19138 19146 19157 19162 19169 19196 19269 19292 19323 19340 
 	}
 	manpower=100000
-	state_category=large_town
-	history = {
-		owner = NUA
-	}
 	buildings_max_level_factor=1.000
+	state_category=large_town
 }
