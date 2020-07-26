@@ -4,6 +4,12 @@ state={
 	provinces={
 		5618 7044 19025 
 	}
-	manpower=0
+	manpower=100
+	state_category = large_town
 	buildings_max_level_factor=1.000
+
+	history = {
+		owner = NUA
+		add_core_of = NUA
+	}
 }

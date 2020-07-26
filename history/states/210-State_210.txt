@@ -4,6 +4,12 @@ state={
 	provinces={
 		1531 7086 7723 9855 18977 18981 19028 19040 19059 19066 19072 19093 19111 19159 19160 
 	}
-	manpower=0
+	manpower=100
+	state_category = large_town
 	buildings_max_level_factor=1.000
+
+	history = {
+		owner = NUA
+		add_core_of = NUA
+	}
 }

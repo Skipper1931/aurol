@@ -4,6 +4,7 @@ state={
 	provinces={
 		1960 2222 3228 6754 7381 7707 8667 8968 8971 10601 10892 14592 14660 14706 14764 14765 14822 14851 14852 14948 14962 14998 15010 
 	}
-	manpower=0
+	manpower=100000
+	state_category=large_town
 	buildings_max_level_factor=1.000
 }
