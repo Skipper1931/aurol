@@ -6,6 +6,9 @@ state={
 	}
 	manpower=100
 	state_category = large_town
+	history = {
+		owner = NUA
+	}
 	buildings_max_level_factor=1.000
 
 	history = {
